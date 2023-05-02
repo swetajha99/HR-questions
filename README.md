@@ -19,3 +19,8 @@ Brainstorm and generate as many possible solutions as possible.
 Choose the most feasible and effective solution based on the evaluation criteria.
 Assign tasks to the relevant team members and communicate the plan effectively.
 Monitor the implementation of the solution and evaluate its effectiveness.
+
+
+Biggest strength:
+-> being an organized person both mentally and physically has been one of my biggest strengths throughout my college life, though in my workplace I wasnt assigned much responsibilities but whatever was assigned I tried doing it with all the dedication. Back in college I was a part of few clubs. I balanced my assignment deadlines, club meetings and a part time job throughout my college. I know this role will involve a lot of unexpected challenges where I will be expected to showcase my organisational skills and adapt quickly. So I believe I have a lot to offer.
+
