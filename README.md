@@ -40,3 +40,20 @@ Decentralization and Security: Blockchain technology is inherently decentralized
 Improved Customer Experience: By using blockchain technology, AIC can provide its customers with a more streamlined and convenient experience, allowing them to access their policies, file claims, and track the status of their claims in real-time.
 
 Overall, the use of blockchain technology in AIC can have significant potential benefits, including improved transparency and traceability, fraud prevention, efficiency and cost savings, decentralization and security, and improved customer experience.
+
+
+
+Why do you want to work here ?
+Working at an Agriculture Insurance company in a management trainee role in IT could offer many exciting opportunities. Here are some reasons why someone might want to work at an Agriculture Insurance company in this capacity:
+
+1. Working towards a noble cause: Agriculture Insurance companies provide coverage to farmers and growers, protecting their crops from various risks, including weather events, pests, and diseases. As a management trainee in IT, you would have the opportunity to contribute to this noble cause by supporting the development of technology solutions that can help mitigate risks and protect farmers' livelihoods.
+
+2. Exposure to cutting-edge technologies: In recent years, the agriculture sector has witnessed an increased adoption of technologies such as data analytics, IoT, and AI. As a management trainee in IT, you would have the opportunity to work with these cutting-edge technologies and develop solutions that can help improve the efficiency and productivity of the agriculture sector.
+
+3. Dynamic and collaborative work culture: Agriculture Insurance companies typically have a dynamic and collaborative work culture that encourages innovation, creativity, and teamwork. As a management trainee, you would have the opportunity to work with diverse teams and gain exposure to different areas of the company, which would enable you to develop a broad range of skills and knowledge.
+
+4. Opportunities for growth and development: Many Agriculture Insurance companies invest heavily in employee training and development, offering various programs and resources to help employees acquire new skills and knowledge. As a management trainee in IT, you would have the opportunity to participate in these programs and develop your technical and professional skills.
+
+5. Strong career prospects: The agriculture sector is expected to experience significant growth in the coming years, driven by the increasing demand for food and the need to feed a growing global population. This growth is likely to result in a higher demand for technology solutions in the agriculture sector, which could lead to strong career prospects for management trainees in IT.
+
+Overall, working at an Agriculture Insurance company in a management trainee role in IT could provide an excellent opportunity for someone who is passionate about technology and innovation, and who wants to contribute to a noble cause while developing their skills and knowledge.
